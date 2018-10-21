@@ -1,5 +1,5 @@
 _repo: Coriolanus_2259
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,5 +31,6 @@ subjects:
 - !lcc 'PR'
 - !lcsh 'Coriolanus, Cnaeus Marcius -- Drama'
 - !lcsh 'Tragedies'
+- GITenberg
 title: Coriolanus
 url: http://www.gutenberg.org/ebooks/2259
